@@ -54,12 +54,12 @@ cd supply-chain-app
 ```
 
 2. Install dependencies (if not already installed):
-\`\`\`bash
+```bash
 npm install
-\`\`\`
+```
 
 3. Run the development server:
-\`\`\`bash
+`bash
 npm run dev
 # or
 yarn dev
@@ -67,20 +67,20 @@ yarn dev
 pnpm dev
 # or
 bun dev
-\`\`\`
+```
 
 4. Open [http://localhost:3000](http://localhost:3000) in your browser
 
 ### Build for Production
 
-\`\`\`bash
+```bash
 npm run build
 npm start
-\`\`\`
+```
 
 ## Project Structure
 
-\`\`\`
+```
 supply-chain-dashboard/
 ├── app/
 │   ├── globals.css          # Global styles and animations
@@ -89,7 +89,7 @@ supply-chain-dashboard/
 ├── public/                   # Static assets
 ├── package.json              # Dependencies
 └── README.md                 # Documentation
-\`\`\`
+```
 
 ## Key Features Breakdown
 
