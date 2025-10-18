@@ -50,7 +50,7 @@ A modern, enterprise-grade supply chain management dashboard inspired by SAP IBP
 
 1. Navigate to the project directory:
 \`\`\`bash
-cd supply-chain-dashboard
+cd supply-chain-app
 \`\`\`
 
 2. Install dependencies (if not already installed):
